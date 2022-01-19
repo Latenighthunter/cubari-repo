@@ -4,5 +4,14 @@
   "artist": "",
   "author": "ISHIDA Sui",
   "cover": "https://cover.nep.li/cover/Toukyou-Kushu.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": "1642632736",
+      "groups": {
+        "": "https://manga4life.com/read-online/Toukyou-Kushu-chapter-1-page-1.html"
+      }
+    }
+  }
 }
